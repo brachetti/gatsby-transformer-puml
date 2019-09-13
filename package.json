@@ -1,0 +1,9 @@
+{
+  "name": "gatsby-transformer-puml",
+  "version": "1.0.0",
+  "description": "Transforming PUML files to images for gatsby",
+  "main": "index.js",
+  "repository": "https://github.com/brachetti/gatsby-transformer-puml",
+  "author": "Ronald Brachetti <ron@clean-code-culture.com>",
+  "license": "MIT"
+}
